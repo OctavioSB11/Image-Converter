@@ -42,4 +42,6 @@ Imagem em Tons de Cinza
 
 Imagem Binarizada (Preto e Branco)
 
-Este projeto foi desenvolvido como um exercício de manipulação de imagens em Python sem utilizar funções prontas de conversão.
+
+
+# Este projeto foi desenvolvido como um exercício de manipulação de imagens em Python sem utilizar funções prontas de conversão.
