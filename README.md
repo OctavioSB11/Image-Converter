@@ -12,9 +12,9 @@ Matplotlib
 
 ImageIO
 
-Como Funciona
+# Como Funciona
 
-# O código possui duas funções principais:
+O código possui duas funções principais:
 
 rgb_to_grayscale(image): Converte uma imagem colorida para tons de cinza utilizando a fórmula de luminância.
 
